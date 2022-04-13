@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	var nowhere *int
-	fmt.Println(nowhere)
-
-	fmt.Println(*nowhere)
+	a := []int{9, 8, 7}
+	for i := range a {
+		fmt.Println(i)
+	}
 }
