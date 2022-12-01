@@ -1,4 +1,4 @@
-#Go和Python用法区别：
+# Go和Python用法区别：
 
 1. Go可以直接修改outer scope定义的变量，py需要用nonlocal或者global关键字。（闭包思想）
 2. Go for loop和if内定义的变量会在外层失效（for/if即scope）。
