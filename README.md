@@ -8,3 +8,5 @@ https://zchee.github.io/golang-wiki/Courses/
 https://github.com/trending/go
 
 https://go.dev/blog/pipelines
+
+https://gobyexample.com
